@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
 
-    <SpaRoot>client_app\</SpaRoot>
+    <SpaRoot>vue_sandbox\</SpaRoot>
   </PropertyGroup>
 
   <ItemGroup>
