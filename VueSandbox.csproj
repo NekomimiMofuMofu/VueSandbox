@@ -10,6 +10,10 @@
     <Content Remove="$(SpaRoot)**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.9" />
+  </ItemGroup>
+
   <!-- dotnet publish 実行時に以下を実行する -->
   <Target Name="RunWebpack" AfterTargets="ComputeFilesToPublish">
     <!-- 本番環境用ビルド "npm run build" を実行する-->
