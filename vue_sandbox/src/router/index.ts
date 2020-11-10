@@ -22,6 +22,11 @@ const routes: Array<RouteConfig> = [
     path: '/userPage/raitichan',
     name: 'Raitichan',
     component: () => import('../views/userPage/raitichan/Raitichan.vue')
+  },
+  {
+    path: '/userPage/igarashi',
+    name: 'Igarashi',
+    component: () => import('../views/userPage/igarashi/Igarashi.vue')
   }
 ]
 
