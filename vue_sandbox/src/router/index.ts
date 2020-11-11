@@ -23,6 +23,11 @@ const routes: Array<RouteConfig> = [
     name: 'Raitichan',
     component: () => import('../views/userPage/raitichan/Raitichan.vue')
   }
+  {
+    path: '/userPage/sin_ni',
+    name: 'Sin_ni',
+    component: () => import('../views/userPage/raitichan/Sin_ni.vue')
+  }
 ]
 
 const router = new VueRouter({
