@@ -1,6 +1,6 @@
 ﻿<template>
   <div class="user-sin_ni">
-    <h1>Welcome to Sinni's Page</h1>
+    <h1>Sin_niだよ</h1>
   </div>
 </template>
 
@@ -13,7 +13,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
     HelloWorld
   }
 })
-export default class Sinni extends Vue {
+export default class Sin_ni extends Vue {
 }
 </script>
 
