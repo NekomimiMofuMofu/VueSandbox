@@ -12,6 +12,9 @@
         <router-link to="/userPage/raitichan">Raitichan</router-link>
       </li>
       <li>
+        <router-link to="/userPage/sin_ni">SinNi</router-link>
+      </li>
+      <li>
         <router-link to="/userPage/igarashi">Igarashi</router-link>
       </li>
     </ul>
