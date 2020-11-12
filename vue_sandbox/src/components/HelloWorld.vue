@@ -12,7 +12,7 @@
         <router-link to="/userPage/raitichan">Raitichan</router-link>
       </li>
       <li>
-        <router-link to="/userPage/sin_ni">Sin_ni</router-link>
+        <router-link to="/userPage/sin_ni">SinNi</router-link>
       </li>
     </ul>
     <h3>Installed CLI Plugins</h3>
