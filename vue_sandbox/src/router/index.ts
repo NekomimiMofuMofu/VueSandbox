@@ -22,11 +22,11 @@ const routes: Array<RouteConfig> = [
     path: '/userPage/raitichan',
     name: 'Raitichan',
     component: () => import('../views/userPage/raitichan/Raitichan.vue')
-  }
+  },
   {
     path: '/userPage/sin_ni',
     name: 'Sin_ni',
-    component: () => import('../views/userPage/raitichan/Sin_ni.vue')
+    component: () => import('../views/userPage/sin_ni/SinNi.vue')
   }
 ]
 
