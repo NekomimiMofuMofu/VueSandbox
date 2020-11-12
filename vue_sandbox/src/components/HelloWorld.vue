@@ -14,6 +14,9 @@
       <li>
         <router-link to="/userPage/sin_ni">SinNi</router-link>
       </li>
+      <li>
+        <router-link to="/userPage/igarashi">Igarashi</router-link>
+      </li>
     </ul>
     <h3>Installed CLI Plugins</h3>
     <ul>

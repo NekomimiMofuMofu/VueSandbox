@@ -27,6 +27,11 @@ const routes: Array<RouteConfig> = [
     path: '/userPage/sin_ni',
     name: 'Sin_ni',
     component: () => import('../views/userPage/sin_ni/SinNi.vue')
+  },
+  {
+    path: '/userPage/igarashi',
+    name: 'Igarashi',
+    component: () => import('../views/userPage/igarashi/Igarashi.vue')
   }
 ]
 
